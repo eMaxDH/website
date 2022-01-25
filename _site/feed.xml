@@ -1,22 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-01-26T00:34:56+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MaxDH.info</title><subtitle>Stay Enthusiastic</subtitle><author><name>Max Daiber-Huppert</name></author><entry><title type="html">Welcome to Jekyll!!!</title><link href="http://localhost:4000/jekyll/update/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!!!" /><published>2022-01-02T19:30:15+01:00</published><updated>2022-01-02T19:30:15+01:00</updated><id>http://localhost:4000/jekyll/update/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/welcome-to-jekyll/"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
-
-<p>Jekyll requires blog post files to be named according to the following format:</p>
-
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
-
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
-
-<p>Jekyll also offers powerful support for code snippets:</p>
-
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
-
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>Max Daiber-Huppert</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. Jekyll requires blog post files to be named according to the following format: YEAR-MONTH-DAY-title.MARKUP Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works. Jekyll also offers powerful support for code snippets: def print_hi(name) puts "Hi, #{name}" end print_hi('Tom') #=&gt; prints 'Hi, Tom' to STDOUT. Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.]]></summary></entry><entry><title type="html">Smart Wall</title><link href="http://localhost:4000/optics/qoto/smart-wall/" rel="alternate" type="text/html" title="Smart Wall" /><published>2018-09-03T03:10:15+02:00</published><updated>2018-09-03T03:10:15+02:00</updated><id>http://localhost:4000/optics/qoto/smart-wall</id><content type="html" xml:base="http://localhost:4000/optics/qoto/smart-wall/"><![CDATA[<p><em>You can find the original toot on <a href="https://qoto.org/@MaxDH/100658697754857026">qoto</a>.</em></p>
-
-<p>I read about a new smart wall (glass) from NanaWall <a href="https://www.nanawall.com/products/whiteout">[1]</a>.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-01-26T00:39:43+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MaxDH.info</title><subtitle>Stay Enthusiastic</subtitle><author><name>Max Daiber-Huppert</name></author><entry><title type="html">Smart Wall</title><link href="http://localhost:4000/optics/qoto/smart-wall/" rel="alternate" type="text/html" title="Smart Wall" /><published>2018-09-03T03:10:15+02:00</published><updated>2018-09-03T03:10:15+02:00</updated><id>http://localhost:4000/optics/qoto/smart-wall</id><content type="html" xml:base="http://localhost:4000/optics/qoto/smart-wall/"><![CDATA[<p>I read about a new smart wall (glass) from NanaWall <a href="https://www.nanawall.com/products/whiteout">[1]</a>.</p>
 
 <p>I was wondering how it worked. So far I only learned something about nematic liquid crystal displays (LCD). With the following cell configurations Fréedericksz cell, VA cell, twisted nematic LC cell (similar to the Fréedericksz cell).</p>
 
@@ -40,13 +22,11 @@ In my opinion, one disadvantage is that we need an applied electrical field for 
 
 <p>Now it’s time. Good night.</p>
 
-<p><a href="https://www.nanawall.com/products/whiteout">[1]</a> https://www.nanawall.com/products/whiteout</p>
+<p><a href="https://www.nanawall.com/products/whiteout">[1]</a> https://www.nanawall.com/products/whiteout<br />
+<a href="https://www.amazon.com/Liquid-Crystal-Displays-Addressing-Electro-Optical/dp/1119667917">[2]</a> Liquid Cristal Displays, Addressing Schemes and electro-optical effects, Ernst Lueder<br />
+<a href="https://en.m.wikipedia.org/wiki/Smart_glass">[3]</a> https://en.m.wikipedia.org/wiki/Smart_glass</p>
 
-<p><a href="https://www.amazon.com/Liquid-Crystal-Displays-Addressing-Electro-Optical/dp/1119667917">[2]</a> Liquid Cristal Displays, Addressing Schemes and electro-optical effects, Ernst Lueder</p>
-
-<p><a href="https://en.m.wikipedia.org/wiki/Smart_glass">[3]</a> https://en.m.wikipedia.org/wiki/Smart_glass</p>]]></content><author><name>Max Daiber-Huppert</name></author><category term="optics" /><category term="qoto" /><summary type="html"><![CDATA[You can find the original toot on qoto.]]></summary></entry><entry><title type="html">Magic Leap</title><link href="http://localhost:4000/optics/qoto/magic-leap/" rel="alternate" type="text/html" title="Magic Leap" /><published>2018-08-30T21:50:15+02:00</published><updated>2018-08-30T21:50:15+02:00</updated><id>http://localhost:4000/optics/qoto/magic-leap</id><content type="html" xml:base="http://localhost:4000/optics/qoto/magic-leap/"><![CDATA[<p><em>You can find the original toot on <a href="https://qoto.org/@MaxDH/100640451319364854">qoto</a>.</em></p>
-
-<p>“Can you share some of your thoughts on #photonics as it relates to spacial computing (i.e. Magic Leap)?”<a href="https://qoto.org/@absolutus/100634867961132450">[1]</a></p>
+<p><em>You can find the original toot on <a href="https://qoto.org/@MaxDH/100658697754857026">qoto</a>.</em></p>]]></content><author><name>Max Daiber-Huppert</name></author><category term="optics" /><category term="qoto" /><summary type="html"><![CDATA[I read about a new smart wall (glass) from NanaWall [1].]]></summary></entry><entry><title type="html">Magic Leap</title><link href="http://localhost:4000/optics/qoto/magic-leap/" rel="alternate" type="text/html" title="Magic Leap" /><published>2018-08-30T21:50:15+02:00</published><updated>2018-08-30T21:50:15+02:00</updated><id>http://localhost:4000/optics/qoto/magic-leap</id><content type="html" xml:base="http://localhost:4000/optics/qoto/magic-leap/"><![CDATA[<p>“Can you share some of your thoughts on #photonics as it relates to spacial computing (i.e. Magic Leap)?”<a href="https://qoto.org/@absolutus/100634867961132450">[1]</a></p>
 
 <p>My first thought was, how does the display work?</p>
 
@@ -71,6 +51,7 @@ When we “see” such a spherical light field, it looks as if it comes from a (
 
 <p>Please correct me if I’m wrong.</p>
 
-<p><a href="https://qoto.org/@absolutus/100634867961132450">[1]</a> https://qoto.org/@absolutus/100634867961132450</p>
+<p><a href="https://qoto.org/@absolutus/100634867961132450">[1]</a> https://qoto.org/@absolutus/100634867961132450<br />
+<a href="https://patents.google.com/patent/US20140003762">[2]</a> https://patents.google.com/patent/US20140003762</p>
 
-<p><a href="https://patents.google.com/patent/US20140003762">[2]</a> https://patents.google.com/patent/US20140003762</p>]]></content><author><name>Max Daiber-Huppert</name></author><category term="optics" /><category term="qoto" /><summary type="html"><![CDATA[You can find the original toot on qoto.]]></summary></entry></feed>
+<p><em>You can find the original toot on <a href="https://qoto.org/@MaxDH/100640451319364854">qoto</a>.</em></p>]]></content><author><name>Max Daiber-Huppert</name></author><category term="optics" /><category term="qoto" /><summary type="html"><![CDATA[“Can you share some of your thoughts on #photonics as it relates to spacial computing (i.e. Magic Leap)?”[1]]]></summary></entry></feed>

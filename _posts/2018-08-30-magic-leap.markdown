@@ -4,8 +4,6 @@ date:   2018-08-30 19:50:15 +0000
 categories: optics qoto
 ---
 
-_You can find the original toot on [qoto][qoto_org_toot]._
-
 "Can you share some of your thoughts on #photonics as it relates to spacial computing (i.e. Magic Leap)?"[[1]][qoto_user_absolutus]
 
 My first thought was, how does the display work?
@@ -30,10 +28,10 @@ Some interesting points of the patent
 Please correct me if I’m wrong.
 
 
-[[1]][qoto_user_absolutus] https://qoto.org/@absolutus/100634867961132450
-
+[[1]][qoto_user_absolutus] https://qoto.org/@absolutus/100634867961132450\\
 [[2]][pat] https://patents.google.com/patent/US20140003762
 
+_You can find the original toot on [qoto][qoto_org_toot]._
 
 [qoto_org_toot]: https://qoto.org/@MaxDH/100640451319364854
 [qoto_user_absolutus]: https://qoto.org/@absolutus/100634867961132450

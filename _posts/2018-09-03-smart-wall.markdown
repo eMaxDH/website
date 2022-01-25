@@ -4,8 +4,6 @@ date:   2018-09-03 01:10:15 +0000
 categories: optics qoto
 ---
 
-_You can find the original toot on [qoto][qoto_org_toot]._
-
 I read about a new smart wall (glass) from NanaWall [[1]][source_1]. 
 
 I was wondering how it worked. So far I only learned something about nematic liquid crystal displays (LCD). With the following cell configurations Fréedericksz cell, VA cell, twisted nematic LC cell (similar to the Fréedericksz cell).
@@ -30,11 +28,12 @@ Maybe you have another idea.
 
 Now it's time. Good night.
 
-[[1]][source_1] https://www.nanawall.com/products/whiteout
-
-[[2]][source_2] Liquid Cristal Displays, Addressing Schemes and electro-optical effects, Ernst Lueder
-
+[[1]][source_1] https://www.nanawall.com/products/whiteout\\
+[[2]][source_2] Liquid Cristal Displays, Addressing Schemes and electro-optical effects, Ernst Lueder\\
 [[3]][source_3] https://en.m.wikipedia.org/wiki/Smart_glass
+
+
+_You can find the original toot on [qoto][qoto_org_toot]._
 
 [source_1]: https://www.nanawall.com/products/whiteout
 [source_2]: https://www.amazon.com/Liquid-Crystal-Displays-Addressing-Electro-Optical/dp/1119667917
