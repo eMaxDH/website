@@ -1,6 +1,6 @@
 var store = [{
         "title": "Magic Leap",
-        "excerpt":"You can find the original toot on [1]. “Can you share some of your thoughts on #photonics as it relates to spacial computing (i.e. Magic Leap)?”[2] My first thought was, how does the display work? I found a patent from Magic Leap, Inc. Maybe the Magic Leap One works like...","categories": ["optics","qoto"],
+        "excerpt":"You can find the original toot on qoto. “Can you share some of your thoughts on #photonics as it relates to spacial computing (i.e. Magic Leap)?”[1] My first thought was, how does the display work? I found a patent from Magic Leap, Inc. Maybe the Magic Leap One works like...","categories": ["optics","qoto"],
         "tags": [],
         "url": "/optics/qoto/magic-leap/",
         "teaser": null

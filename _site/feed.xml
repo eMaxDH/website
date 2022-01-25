@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-01-26T00:23:39+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MaxDH.info</title><subtitle>Stay Enthusiastic</subtitle><author><name>Max Daiber-Huppert</name></author><entry><title type="html">Welcome to Jekyll!!!</title><link href="http://localhost:4000/jekyll/update/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!!!" /><published>2022-01-02T19:30:15+01:00</published><updated>2022-01-02T19:30:15+01:00</updated><id>http://localhost:4000/jekyll/update/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/welcome-to-jekyll/"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-01-26T00:34:56+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MaxDH.info</title><subtitle>Stay Enthusiastic</subtitle><author><name>Max Daiber-Huppert</name></author><entry><title type="html">Welcome to Jekyll!!!</title><link href="http://localhost:4000/jekyll/update/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!!!" /><published>2022-01-02T19:30:15+01:00</published><updated>2022-01-02T19:30:15+01:00</updated><id>http://localhost:4000/jekyll/update/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/welcome-to-jekyll/"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p>Jekyll requires blog post files to be named according to the following format:</p>
 
@@ -44,9 +44,9 @@ In my opinion, one disadvantage is that we need an applied electrical field for 
 
 <p><a href="https://www.amazon.com/Liquid-Crystal-Displays-Addressing-Electro-Optical/dp/1119667917">[2]</a> Liquid Cristal Displays, Addressing Schemes and electro-optical effects, Ernst Lueder</p>
 
-<p><a href="https://en.m.wikipedia.org/wiki/Smart_glass">[3]</a> https://en.m.wikipedia.org/wiki/Smart_glass</p>]]></content><author><name>Max Daiber-Huppert</name></author><category term="optics" /><category term="qoto" /><summary type="html"><![CDATA[You can find the original toot on qoto.]]></summary></entry><entry><title type="html">Magic Leap</title><link href="http://localhost:4000/optics/qoto/magic-leap/" rel="alternate" type="text/html" title="Magic Leap" /><published>2018-08-30T21:50:15+02:00</published><updated>2018-08-30T21:50:15+02:00</updated><id>http://localhost:4000/optics/qoto/magic-leap</id><content type="html" xml:base="http://localhost:4000/optics/qoto/magic-leap/"><![CDATA[<p><em>You can find the original toot on <a href="https://qoto.org/@MaxDH/100640451319364854">[1]</a>.</em></p>
+<p><a href="https://en.m.wikipedia.org/wiki/Smart_glass">[3]</a> https://en.m.wikipedia.org/wiki/Smart_glass</p>]]></content><author><name>Max Daiber-Huppert</name></author><category term="optics" /><category term="qoto" /><summary type="html"><![CDATA[You can find the original toot on qoto.]]></summary></entry><entry><title type="html">Magic Leap</title><link href="http://localhost:4000/optics/qoto/magic-leap/" rel="alternate" type="text/html" title="Magic Leap" /><published>2018-08-30T21:50:15+02:00</published><updated>2018-08-30T21:50:15+02:00</updated><id>http://localhost:4000/optics/qoto/magic-leap</id><content type="html" xml:base="http://localhost:4000/optics/qoto/magic-leap/"><![CDATA[<p><em>You can find the original toot on <a href="https://qoto.org/@MaxDH/100640451319364854">qoto</a>.</em></p>
 
-<p>“Can you share some of your thoughts on #photonics as it relates to spacial computing (i.e. Magic Leap)?”<a href="https://qoto.org/@absolutus/100634867961132450">[2]</a></p>
+<p>“Can you share some of your thoughts on #photonics as it relates to spacial computing (i.e. Magic Leap)?”<a href="https://qoto.org/@absolutus/100634867961132450">[1]</a></p>
 
 <p>My first thought was, how does the display work?</p>
 
@@ -54,10 +54,10 @@ In my opinion, one disadvantage is that we need an applied electrical field for 
 Maybe the Magic Leap One works like this =)</p>
 
 <p>In order to obtain a real 3D image, it is necessary to create a light field as if from a real object.
-This can be done by modulating the wave field, e.g. as a sphere, Fig. 2A<a href="https://patents.google.com/patent/US20140003762">[3]</a>. 
+This can be done by modulating the wave field, e.g. as a sphere, Fig. 2A<a href="https://patents.google.com/patent/US20140003762">[2]</a>. 
 When we “see” such a spherical light field, it looks as if it comes from a (virtual) point source.</p>
 
-<p>The patent describes the stacking of the light-guid optical elements to a 3D display (WRAP), see Fig. 5A<a href="https://patents.google.com/patent/US20140003762">[3]</a>.</p>
+<p>The patent describes the stacking of the light-guid optical elements to a 3D display (WRAP), see Fig. 5A<a href="https://patents.google.com/patent/US20140003762">[2]</a>.</p>
 
 <p>By using a beam deflector, any 3D pixel can be addressed. The result is that the calculated virtual environment can be projected into the wearer’s eyes.</p>
 
@@ -73,6 +73,4 @@ When we “see” such a spherical light field, it looks as if it comes from a (
 
 <p><a href="https://qoto.org/@absolutus/100634867961132450">[1]</a> https://qoto.org/@absolutus/100634867961132450</p>
 
-<p><a href="https://qoto.org/@MaxDH/100640451319364854">[2]</a>: https://qoto.org/@MaxDH/100640451319364854</p>
-
-<p><a href="https://patents.google.com/patent/US20140003762">[3]</a> https://patents.google.com/patent/US20140003762</p>]]></content><author><name>Max Daiber-Huppert</name></author><category term="optics" /><category term="qoto" /><summary type="html"><![CDATA[You can find the original toot on [1].]]></summary></entry></feed>
+<p><a href="https://patents.google.com/patent/US20140003762">[2]</a> https://patents.google.com/patent/US20140003762</p>]]></content><author><name>Max Daiber-Huppert</name></author><category term="optics" /><category term="qoto" /><summary type="html"><![CDATA[You can find the original toot on qoto.]]></summary></entry></feed>
