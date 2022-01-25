@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://www.maxdh.info/jekyll/update/welcome-to-jekyll/</loc>
-<lastmod>2022-01-02T18:30:15+00:00</lastmod>
+<loc>http://localhost:4000/optics/qoto/magic-leap/</loc>
+<lastmod>2018-08-30T21:50:15+02:00</lastmod>
 </url>
 <url>
-<loc>https://www.maxdh.info/about/</loc>
-<lastmod>2021-06-07T12:48:05+00:00</lastmod>
+<loc>http://localhost:4000/optics/qoto/smart-wall/</loc>
+<lastmod>2018-09-03T03:10:15+02:00</lastmod>
 </url>
 <url>
-<loc>https://www.maxdh.info/contact/</loc>
-<lastmod>2021-06-07T12:48:05+00:00</lastmod>
+<loc>http://localhost:4000/jekyll/update/welcome-to-jekyll/</loc>
+<lastmod>2022-01-02T19:30:15+01:00</lastmod>
 </url>
 <url>
-<loc>https://www.maxdh.info/</loc>
+<loc>http://localhost:4000/about/</loc>
+<lastmod>2021-06-07T14:48:05+02:00</lastmod>
 </url>
 <url>
-<loc>https://www.maxdh.info/recipes/</loc>
+<loc>http://localhost:4000/contact/</loc>
+<lastmod>2021-06-07T14:48:05+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/recipes/</loc>
 </url>
 </urlset>

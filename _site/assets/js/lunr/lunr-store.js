@@ -1,4 +1,16 @@
 var store = [{
+        "title": "Magic Leap",
+        "excerpt":"You can find the original toot on [1]. “Can you share some of your thoughts on #photonics as it relates to spacial computing (i.e. Magic Leap)?”[2] My first thought was, how does the display work? I found a patent from Magic Leap, Inc. Maybe the Magic Leap One works like...","categories": ["optics","qoto"],
+        "tags": [],
+        "url": "/optics/qoto/magic-leap/",
+        "teaser": null
+      },{
+        "title": "Smart Wall",
+        "excerpt":"You can find the original toot on qoto. I read about a new smart wall (glass) from NanaWall [1]. I was wondering how it worked. So far I only learned something about nematic liquid crystal displays (LCD). With the following cell configurations Fréedericksz cell, VA cell, twisted nematic LC cell...","categories": ["optics","qoto"],
+        "tags": [],
+        "url": "/optics/qoto/smart-wall/",
+        "teaser": null
+      },{
         "title": "Welcome to Jekyll!!!",
         "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["jekyll","update"],
         "tags": [],
