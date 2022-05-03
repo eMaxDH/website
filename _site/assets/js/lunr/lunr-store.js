@@ -11,6 +11,60 @@ var store = [{
         "url": "/optics/qoto/smart-wall/",
         "teaser": null
       },{
+        "title": "Das Unbewusste",
+        "excerpt":"Das Unbewusste: Der Autopilot im Kopf  Spektrum der Wissenschaft  ","categories": ["mind","link"],
+        "tags": [],
+        "url": "/mind/link/das-unbewusste/",
+        "teaser": null
+      },{
+        "title": "Falsch ist Ansichtssache",
+        "excerpt":"Falsch ist Ansichtssache  Spektrum der Wissenschaft  ","categories": ["mind","link"],
+        "tags": [],
+        "url": "/mind/link/falsch-ist-ansichtssache/",
+        "teaser": null
+      },{
+        "title": "Eine Sprache für nichts als die Wahrheit",
+        "excerpt":"Eine Sprache für nichts als die Wahrheit  Spektrum der Wissenschaft  ","categories": ["mind","math","link"],
+        "tags": [],
+        "url": "/mind/math/link/eine-sprache-fuer-nichts-als-die-wahrheit-copy/",
+        "teaser": null
+      },{
+        "title": "Schleimpilz misst Größe von Objekten",
+        "excerpt":"Schleimpilz misst Größe von Objekten  Spektrum der Wissenschaft  ","categories": ["nature","link"],
+        "tags": [],
+        "url": "/nature/link/schleimpilz/",
+        "teaser": null
+      },{
+        "title": "Menschen mit Autismus urteilen rationaler",
+        "excerpt":"Menschen mit Autismus urteilen rationaler  Spektrum der Wissenschaft  ","categories": ["mind","link"],
+        "tags": [],
+        "url": "/mind/link/autismus/",
+        "teaser": null
+      },{
+        "title": "Die kommenden Nächte bringen Sternschnuppenschauer",
+        "excerpt":"Die kommenden Nächte bringen Sternschnuppenschauer  Spektrum der Wissenschaft  ","categories": ["space","link"],
+        "tags": [],
+        "url": "/space/link/perseiden/",
+        "teaser": null
+      },{
+        "title": "Die kommenden Nächte bringen Sternschnuppenschauer",
+        "excerpt":"Vorbild Gehirn  Spektrum der Wissenschaft  ","categories": ["mind","ai","link"],
+        "tags": [],
+        "url": "/mind/ai/link/vorbild-gehirn/",
+        "teaser": null
+      },{
+        "title": "Brain charts for the human lifespan",
+        "excerpt":"Brain charts for the human lifespan  Nature  ","categories": ["mind","link"],
+        "tags": [],
+        "url": "/mind/link/brain-charts-for-the-human-lifespan/",
+        "teaser": null
+      },{
+        "title": "Elegant Six-Page Proof Reveals the Emergence of Random Structure",
+        "excerpt":"Elegant Six-Page Proof Reveals the Emergence of Random Structure  Quanta Magazine  ","categories": ["math","link"],
+        "tags": [],
+        "url": "/math/link/random-structure/",
+        "teaser": null
+      },{
         "title": "Chocolate Chip Cookies",
         "excerpt":"A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient. The traditional recipe combines a dough composed of butter and both brown and white sugar with semi-sweet chocolate chips. Variations include recipes with other types of chocolate as...","categories": [],
         "tags": [],
