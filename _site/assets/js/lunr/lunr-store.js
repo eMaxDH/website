@@ -47,7 +47,7 @@ var store = [{
         "url": "/space/link/perseiden/",
         "teaser": null
       },{
-        "title": "Die kommenden Nächte bringen Sternschnuppenschauer",
+        "title": "Vorbild Gehirn",
         "excerpt":"Vorbild Gehirn  Spektrum der Wissenschaft  ","categories": ["mind","ai","link"],
         "tags": [],
         "url": "/mind/ai/link/vorbild-gehirn/",

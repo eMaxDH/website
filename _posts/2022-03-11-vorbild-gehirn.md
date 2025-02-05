@@ -1,6 +1,6 @@
 ---
-title:  "Die kommenden Nächte bringen Sternschnuppenschauer"
-date:   2022-03-11 18:39:15 +0000
+title:  "Vorbild Gehirn"
+date:   2022-03-05 18:39:15 +0000
 categories: mind ai link
 ---
 
